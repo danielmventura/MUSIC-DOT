@@ -1,10 +1,18 @@
 body{font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
 
 }
 h1{
     color: #3D3D3D;
     background-color: #E1EDF2;
 }
+
+.Paragrafo-2 {
+    margin-top: 10px;
+
+}
+
+
 
 h2{
 
@@ -14,8 +22,14 @@ h2{
 figure{
     text-align: center;
     background-color: whitesmoke;
+    width: 940px;
+    top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 figcaption{
     color: lightgrey;
+    width: 940px;
 }
